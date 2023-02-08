@@ -1,2 +1,2 @@
-# GLSL_-
-practice glsl 3
+# glsl-03
+practice glsl-03
